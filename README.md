@@ -1,6 +1,6 @@
-# act
+# Website for AIFT
 
-A new Flutter project.
+A Flutter web app for a company. Has both Mobile and Desktop view configs and navbar with images, Used auto size text package for dynamic text resizing
 
 ## Getting Started
 
